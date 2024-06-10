@@ -3,5 +3,5 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       AvailabilityZone: ap-south-1a
-      ImageId: ami-06e46074ae430fba6
+      ImageId: ami-00fa32593b478ad6e
       InstanceType: t2.micro
